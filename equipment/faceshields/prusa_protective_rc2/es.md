@@ -9,7 +9,6 @@ materials:
   - esun_hips_natural_175_mm
   - esun_hips_black_175_mm
   - abs_esun_white_285_mm
-lang: es
 file: files/example.stl
 picture: images/twitter_cover.png
 ---
