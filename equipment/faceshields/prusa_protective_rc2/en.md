@@ -19,7 +19,7 @@ picture: images/twitter_cover.png
 
 Lorem ipsum
 
-![Dojo imagen](./img/twitter_covers.png)
+![Dojo imagen](./img/twitter_cover.png)
 
 Otra cosa
 
