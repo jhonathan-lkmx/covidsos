@@ -10,7 +10,6 @@ materials:
   - esun_hips_natural_175_mm
   - esun_hips_black_175_mm
   - abs_esun_white_285_mm
-lang: es
 ---
 
 # Baby Face Mask Frame

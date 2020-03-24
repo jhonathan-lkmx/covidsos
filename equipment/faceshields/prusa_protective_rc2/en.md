@@ -9,7 +9,6 @@ materials:
   - esun_hips_natural_175_mm
   - esun_hips_black_175_mm
   - abs_esun_white_285_mm
-lang: es
 file: files/example.stl
 picture: images/twitter_cover.png
 ---
@@ -18,10 +17,10 @@ picture: images/twitter_cover.png
 
 ## Summary
 
-Prusa Protective Face Shield
+Lorem ipsum
 
 ![Dojo imagen](./img/twitter_cover.png)
 
-Instrucciones más precisas.
+Otra cosa
 
-Esterilizar bien el material
+![Dojo imagen](./img/twitter_cover.png)
