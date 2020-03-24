@@ -26,5 +26,5 @@ jobs:
     # Markdown check
     - name: Markdown check
       run: |
-        npm install --global remark-cli remark-validate-links
+        npm install --quiet --global remark-cli remark-validate-links  &> /dev/null
         remark -f -q -u validate-links .
