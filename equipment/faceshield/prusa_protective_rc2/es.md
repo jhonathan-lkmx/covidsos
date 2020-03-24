@@ -23,3 +23,5 @@ Prusa Protective Face Shield
 ![Dojo imagen](./img/twitter_cover.png)
 
 Instrucciones más precisas.
+
+Esterilizar bien el material
