@@ -1,6 +1,6 @@
 # COVIDSOS
 
-![COVIDSOS](./covidsos.png)
+![COVIDSOS](./covidsoss.png)
 
 ## Español, para los que nos entienden
 
