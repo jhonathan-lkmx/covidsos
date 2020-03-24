@@ -1,6 +1,6 @@
 # COVIDSOS
 
-[![Unlicensed][license-image]][license-url]
+![COVIDSOS](./covidsos.png)
 
 ## Español, para los que nos entienden
 
